@@ -3,9 +3,9 @@ Problem Statement: JSON Python Simulator
 Objective:
 Develop a Python-based JSON Simulator that can dynamically generate, manipulate, and simulate interactions with JSON data structures. The simulator should be user-friendly and capable of handling real-world JSON use cases, such as API request/response testing, data validation, and mock data generation.
 
-Key Features:
+**Key Features:**
 
-JSON Data Generation:
+**JSON Data Generation:**
 
 Allow users to define JSON schemas or templates.
 Generate JSON data based on predefined rules, including randomization for testing purposes.
