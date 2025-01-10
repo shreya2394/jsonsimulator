@@ -21,7 +21,7 @@ def emit_json():
     print(random_json)
 
 def main():
-    schedule.every(1).minutes.do(random_json_generator)
+    schedule.every(1).minutes.do(emit_json)
     
     print("JSON simulator started. Emitting every 1 minutes...")
     while True:
